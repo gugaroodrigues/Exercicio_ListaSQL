@@ -1,1 +1,1 @@
-create database if not exists exercicio;
+CREATE DATABASE IF NOT EXISTS exercicio;
