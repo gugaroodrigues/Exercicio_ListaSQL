@@ -1,3 +1,4 @@
+use exercicio;
 DROP TABLE IF EXISTS pokemons;
 
 CREATE TABLE IF NOT EXISTS pokemons(
