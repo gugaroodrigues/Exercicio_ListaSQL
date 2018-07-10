@@ -72,7 +72,7 @@ update pokemons
 -- exercicio13 lista03;
 update pokemons 
    set descricao = 'Lorem ipsum.',
-       nome = 'Tyranitar', 
+       nome = 'Tyranitar',
        categoria = 'Wood Gecko' 
    where mod(codigo ,2) = 0;
 
